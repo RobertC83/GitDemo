@@ -37,3 +37,8 @@ public class day1 {
 
 }
 //added for test of git
+//added for test of git2
+//added for test of git3
+//added for test of git4
+//added for test of git5
+//added for test of git6

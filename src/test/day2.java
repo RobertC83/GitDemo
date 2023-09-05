@@ -22,3 +22,4 @@ public class day2 {
 	}
 
 }
+//added for test of GIT different file 1
