@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Loan department" parallel="tests" thread-count="6"> <!--To run tests in parallel instead os sequentially; thread-count gives the number of tests to run in parallel-->
+<!--Running tests in parallel will lead to faster execution but it can also lead to performance issues or functional issues-->
+ <listeners>
+		<listener class-name="test.Listeners"/> <!--Location of the class that contains Listeners implementation method-->
+	</listeners>
+	
+  <test thread-count="5" name="Personal loan"> 
+    <packages>
+		<package name="test"/> <!--to run everything in a package-->
+	</packages>
+  </test>
+</suite>
