@@ -42,3 +42,5 @@ public class day1 {
 //added for test of git4
 //added for test of git5
 //added for test of git6
+
+//changed to branch "develop"
