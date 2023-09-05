@@ -44,3 +44,4 @@ public class day1 {
 //added for test of git6
 
 //changed to branch "develop"
+//added to branch "develop" from GitX
