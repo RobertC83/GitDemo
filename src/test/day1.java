@@ -36,3 +36,4 @@ public class day1 {
 	}
 
 }
+//added for test of git
